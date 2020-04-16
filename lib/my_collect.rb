@@ -6,4 +6,3 @@ def my_collector(arr)
   end
   map_arr
 end
-
