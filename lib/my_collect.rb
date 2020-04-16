@@ -1,8 +1,8 @@
 def my_collect(arr)
   i = 0
-  map_arr = []
+  new_arr = []
   while i < arr.length
-    map.arr << yield(arr[i])
+    new_arr << yield(arr[i])
     i += 1
   end
   map_arr
