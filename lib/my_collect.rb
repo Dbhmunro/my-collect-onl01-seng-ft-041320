@@ -1,4 +1,4 @@
-def my_collector(arr)
+def my_collect(arr)
   i = 0
   map_arr = []
   while i < arr.length
