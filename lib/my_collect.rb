@@ -5,5 +5,5 @@ def my_collect(arr)
     new_arr << yield(arr[i])
     i += 1
   end
-  map_arr
+  new_arr
 end
